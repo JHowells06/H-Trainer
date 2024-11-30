@@ -2,4 +2,5 @@
 Matric Practical Assessment Task
 
 To run this project:
-java -jar "H-Trainer.jar"
+Download H-Trainer.jar and lib folder
+run java -jar "H-Trainer.jar"
